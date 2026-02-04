@@ -1,9 +1,18 @@
-# 📌 Arrays – Problems Solved
+# Array
 
-This folder contains DSA problems solved under the **Arrays** topic.
+ problems solved from **LeetCode**.
 
----
+## Problems
+🔥Day 1
+- **concatenation of array**
+ https://leetcode.com/problems/concatenation-of-array/description/
 
-## 🎯 Problems
+- **contains duplicate**
+https://leetcode.com/problems/contains-duplicate/description/
 
+- **valid anagram**
+https://leetcode.com/problems/valid-anagram/description/
+
+
+ 
 
