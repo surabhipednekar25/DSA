@@ -13,6 +13,11 @@ https://leetcode.com/problems/contains-duplicate/description/
 - **valid anagram**
 https://leetcode.com/problems/valid-anagram/description/
 
+🔥Day 2
+- **Two sum**
+ https://leetcode.com/problems/two-sum/
+
+
 
  
 
