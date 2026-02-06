@@ -18,6 +18,10 @@ https://leetcode.com/problems/valid-anagram/description/
  https://leetcode.com/problems/two-sum/
 
 
+🔥Day 3
+- **remove element**
+ https://leetcode.com/problems/remove-element/description/
+
 
  
 
