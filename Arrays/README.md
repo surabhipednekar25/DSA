@@ -23,5 +23,15 @@ https://leetcode.com/problems/valid-anagram/description/
  https://leetcode.com/problems/remove-element/description/
 
 
+ 🔥Day 4
+- **longest common prefix**
+ https://leetcode.com/problems/longest-common-prefix/
+
+-**group of anagrams**
+ https://leetcode.com/problems/group-anagrams/
+
+
+
+
  
 
