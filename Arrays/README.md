@@ -31,6 +31,12 @@ https://leetcode.com/problems/valid-anagram/description/
  https://leetcode.com/problems/group-anagrams/
 
 
+ 🔥Day 5
+- **majority element**
+ https://leetcode.com/problems/majority-element/
+
+
+
 
 
  
