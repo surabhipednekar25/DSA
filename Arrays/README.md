@@ -36,6 +36,11 @@ https://leetcode.com/problems/valid-anagram/description/
  https://leetcode.com/problems/majority-element/
 
 
+🔥Day 6
+- **design hashset**
+ https://leetcode.com/problems/design-hashset/
+
+
 
 
 
