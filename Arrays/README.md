@@ -41,6 +41,11 @@ https://leetcode.com/problems/valid-anagram/description/
  https://leetcode.com/problems/design-hashset/
 
 
+ 🔥Day 7
+- **design hashmap**
+ https://leetcode.com/problems/design-hashmap/description/
+
+
 
 
 
